@@ -51,5 +51,5 @@ Then, from within your project folder:
 
 ```bash
 cd public
-vercel deploy --name my-project
+vercel deploy --name panel
 ```
